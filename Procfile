@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run password_generator.py
