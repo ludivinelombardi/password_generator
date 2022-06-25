@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit password_generator.py
+web: sh setup.sh && streamlit run password_generator.py
