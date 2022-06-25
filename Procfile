@@ -1,0 +1,1 @@
+web: streamlit password_generator.py
